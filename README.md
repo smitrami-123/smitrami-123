@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mr. Smit V. Rami</h1>
-<h3 align="center">Pre Final Year Computer Engineering Undergraduate @ L. D. College of Engineering</h3>
+<h3 align="center">Pre Final Year Computer Engineering Undergraduate @ L. D. College of Engineering at Ahmedabad, India</h3>
 
-- 🔭 I’m currently exploring on **MERN Stack*
+- 🔭 I’m currently exploring on **MERN Stack**
 
 - 🌱 I have bit of knack in **Flutter, Django and Core Java**
 
