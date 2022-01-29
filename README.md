@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mr. Smit V. Rami</h1>
-<h3 align="center">A passionate backend developer and Competitive Programmer from India</h3>
+<h3 align="center">Pre Final Year Computer Engineering Undergraduate @ L. D. College of Engineering</h3>
 
-- 🔭 I’m currently working on **small projects in Java and Python**
+- 🔭 I’m currently exploring on **MERN Stack*
 
-- 🌱 I’m currently learning **Flutter , Django and Advanced Java**
+- 🌱 I have bit of knack in **Flutter, Django and Core Java**
 
 - 📫 How to reach me **smitrami6661@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wU9taYFznFLJLzVDKo0wgFhMVoRqV2iT/view?usp=sharing](https://drive.google.com/file/d/1wU9taYFznFLJLzVDKo0wgFhMVoRqV2iT/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
