@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mr. Smit V. Rami</h1>
-<h3 align="center">Final Year Computer Engineering Undergraduate @ L. D. College of Engineering at Ahmedabad, India</h3>
+<h1 align="center">Hi 👋, I'm Smit Rami</h1>
+<h3 align="center">Enthusiastic Problem Solver</h3>
 
-- 🔭 I’m currently exploring on **MERN Stack**
+- 🔭 I’m currently pursuing **Masters @ University of Windsor**
 
 - 🌱 I have bit of knack in **Flutter, Django and Core Java**
 
