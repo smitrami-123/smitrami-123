@@ -7,9 +7,9 @@
 
 - I’m a **Software Developer @ Fidelity Investments Canada**
 
-- 📫 Let's connect : **smitvrami@gmail.com**
+- 📫 Let's connect : **smit.v.ramii@gmail.com**
 
-- ⚡ Fact **Peace has never been an option**
+- ⚡ Fact **Engineering is a mindset and not a degree**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
