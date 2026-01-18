@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/smitrami_123" target="blank"><img src="https://img.shields.io/twitter/follow/smitrami_123?logo=twitter&style=for-the-badge" alt="smitrami_123" /></a> </p>
 
-- I’m currently pursuing **Masters @ University of Windsor**
+- I’m a **Software Developer @ Fidelity Investments Canada**
 
 - 📫 Let's connect : **smitvrami@gmail.com**
 
